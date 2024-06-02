@@ -32,17 +32,20 @@ Tax Adjustment: Adjusted the shoe prices based on local sales tax rates.
 
 ## Visualization
 ### Price Comparison
+![Price Comparison](Visualization.png)
+
 From the bar graph produced, it can be seen that the shoe prices are the lowest in the United States of America and highest in Argentina.
 
 ### Affordability Analysis
+![Affordability Analysis](Visualization2.png)
+
 We chose Median Income as our external factor to analyze the affordability of the shoes in each country. The Median Income provides the best estimate of the affordability of the shoe in each country.
 
 As the Median Income of a country increases, the demand increases, which should result in the increase of the Shoe Price in each Country. However, from the scatterplot and the correlation coefficient, it can be inferred that there is a weak negative correlation between the Shoes Prices and the Median Income. Since the correlation coefficient is negligible, we can conclude that our assumption is not consistent with our data.
 
 ## Possible Extraneous Factors
 Several extraneous factors could influence the shoe prices across different countries, including:
-
-## Transport Costs
+Transport Costs
 Government Intervention
 Non-Traded Services
 Market Competition
